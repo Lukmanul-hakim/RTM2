@@ -20,6 +20,6 @@ for line in sys.stdin:
         current = key
         total = value
 
-# ❗ INI WAJIB (print terakhir)
+
 if current is not None:
     print(f"{current}\t{total}")
