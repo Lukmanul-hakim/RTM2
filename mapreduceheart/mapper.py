@@ -10,7 +10,6 @@ for line in sys.stdin:
 
     parts = line.split(",")
 
-    # pastikan jumlah kolom cukup
     if len(parts) < 14:
         continue
 
