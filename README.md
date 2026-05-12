@@ -25,9 +25,10 @@ Heart Disease Dataset
   - 1 = 52.40
 
 ## Hasil Spark
-(Model terbaik isi dari notebook kamu, misal:)
-- Random Forest Accuracy: xx%
-- Precision, Recall, F1-score
+- Random Forest Accuracy: 94%
+- Precision:0.943
+- Recall:0.941
+- F1-score:0.941
 
 ## Perbandingan
 - Hadoop MapReduce: berbasis disk → lebih lambat
